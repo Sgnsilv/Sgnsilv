@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Sara</h1>
 <h3 align="center">Estudante de Engenharia da Computação na UFRN</h3>
 
-- 🌱 I’m currently learning **C++, react e ciência de dados**
+- 🌱 I’m currently learning **C++, react and data science**
 
 - 📫 Me encontre: **sara.silva.114@ufrn.edu.br**
 
