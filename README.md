@@ -12,7 +12,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-Sou estudante de Engenharia da Computação na UFRN, com sólida formação técnica em Mecatrônica e um grande interesse por pesquisa científica e desenvolvimento de tecnologia assistiva. Minha paixão é aplicar conceitos de processamento de sinais, algoritmos e software para resolver problemas complexos, como no meu projeto com sinais EMG para controle de próteses robóticas. Estou sempre buscando novos desafios e aprofundando meus conhecimentos em C++, Python e análise de dados.
+Sou estudante de Engenharia da Computação na UFRN, com sólida formação técnica em Mecatrônica e um grande interesse por pesquisa científica e desenvolvimento de tecnologia assistiva. Estou sempre buscando novos desafios e aprofundando meus conhecimentos em C++, Python e análise de dados.
 
 ---
 
