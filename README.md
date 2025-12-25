@@ -1,56 +1,81 @@
 <h1 align="center">Olá 👋, me chamo Sara Gabrielly</h1>
 <p align="center">
-  <strong>Estudante de Engenharia da Computação </strong>
+  <strong>Estudante de Engenharia da Computação na UFRN</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saransilv" target="_blank">LinkedIn</a> •
-  <a href="mailto:sara.silva.114@ufrn.edu.br">Email</a> •
-  </p>
+  <a href="https://linkedin.com/in/saransilv" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sara.silva.114@ufrn.edu.br">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ### 👩‍💻 Sobre Mim
 
-Sou estudante de Engenharia da Computação na UFRN, com sólida formação técnica em Mecatrônica e um grande interesse por pesquisa científica e desenvolvimento de tecnologia assistiva. Estou sempre buscando novos desafios e aprofundando meus conhecimentos em C++, Python e análise de dados.
+Sou estudante de Engenharia da Computação, com sólida formação técnica em Mecatrônica. Atualmente, meu foco é o **Desenvolvimento Web Fullstack** (React, Next.js, Python) e **Inteligência Artificial**. Tenho experiência com pesquisa científica em Bioinformática e gosto de construir interfaces modernas e eficientes.
 
 ---
 
-### 🚀 Principais Tecnologias e Ferramentas
+### 🚀 Stack Principal
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" title="MATLAB"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" title="Arduino"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ---
 
-### ⭐ Projetos em Destaque
+### ⭐ Projetos de Desenvolvimento Web
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Projetos em Processamento Digital de Sinais</h3>
+      <h3 align="center">🍽️ Mandaladaka (Fullstack)</h3>
       <p align="center">
-        Repositório da disciplina de PDS, com implementações de algoritmos de convolução e projetos de filtros FIR utilizando Python e MATLAB. Demonstra a base teórica e prática em processamento de sinais.
+        Sistema de gestão de restaurantes com <strong>Next.js</strong> (Front) e <strong>Flask</strong> (Back). Gestão de pedidos, mesas e integração via API REST.
         <br/><br/>
-        <a href="https://github.com/sgnsilv/Projetos-PDS" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-3DA6A6?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://github.com/sgnsilv/Mandaladaka" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-blue?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Projetos em Programação Avançada (C++)</h3>
+      <h3 align="center">🏢 Morada Digital (React App)</h3>
       <p align="center">
-        Coleção de projetos acadêmicos que demonstram conceitos de C++ moderno, incluindo gerenciamento de memória, templates (STL) e programação concorrente.
+        Aplicação web para gestão condominial. Foco em componentização reutilizável, <strong>UX/UI</strong> e responsividade utilizando React.
         <br/><br/>
-        <a href="https://github.com/sgnsilv/Projetos-PA" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-4E8098?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://github.com/sgnsilv/morada-digital-app" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
         </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🧠 Dados, IA e Engenharia
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📍 Mapa Gastronômico</h3>
+      <p align="center">
+        Aplicação interativa com <strong>Streamlit</strong> para mapear festivais gastronômicos em Natal/RN, com filtragem de dados e geolocalização.
+        <br/><br/>
+        <a href="https://github.com/sgnsilv/festival_map">Link do Projeto</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧬 Bioinformática (IC)</h3>
+      <p align="center">
+        <strong>Iniciação Científica:</strong> "Aprendizagem profunda para a classificação do genoma do SARS-CoV-2". Uso de Deep Learning para análise genômica.
       </p>
     </td>
   </tr>
@@ -59,9 +84,9 @@ Sou estudante de Engenharia da Computação na UFRN, com sólida formação téc
 ---
 
 <details>
-  <summary>📊 Minhas Estatísticas no GitHub</summary>
+  <summary>📊 Estatísticas do GitHub</summary>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgnsilv&show_icons=true&locale=pt-br&theme=dark" alt="sgnsilv" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgnsilv&layout=compact&locale=pt-br&theme=dark" alt="sgnsilv" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgnsilv&show_icons=true&locale=pt-br&theme=dark" alt="stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgnsilv&layout=compact&locale=pt-br&theme=dark" alt="langs" />
   </p>
 </details>
