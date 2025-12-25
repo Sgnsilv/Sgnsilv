@@ -7,6 +7,9 @@
   <a href="https://linkedin.com/in/saransilv" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://sgnsilv.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio%20Online-purple?style=flat&logo=Globe&logoColor=white" alt="Portfolio">
+  </a>
   <a href="mailto:sara.silva.114@ufrn.edu.br">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
   </a>
